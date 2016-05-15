@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../picture/bg.png</file>
+        <file>../picture/menu.jpg</file>
+        <file>../picture/bg1.png</file>
+        <file>../picture/bg2.jpg</file>
+        <file>../picture/bg.jpg</file>
+        <file>../picture/bg1.jpg</file>
+        <file>../picture/back_b.png</file>
+        <file>../picture/back_r.png</file>
+        <file>../picture/img/songselectbg.png</file>
+        <file>../picture/songselectbg.jpg</file>
+        <file>../picture/reddrum2.jpg</file>
+        <file>../picture/reddrum8.jpg</file>
+        <file>../picture/reddrum12.jpg</file>
+        <file>../picture/circle.jpeg</file>
+        <file>../picture/back_b.jpg</file>
+        <file>../picture/back_r.jpg</file>
+        <file>../picture/bad.jpg</file>
+        <file>../picture/blue.jpeg</file>
+        <file>../picture/good.jpg</file>
+        <file>../picture/perfect.jpg</file>
+        <file>../picture/red.jpeg</file>
+        <file>../picture/reddrum1.jpg</file>
+        <file>../picture/scorepagebg.jpg</file>
+        <file>../picture/mtaikoflash_blue.png</file>
+        <file>../picture/mtaikoflash_red.png</file>
+        <file>../picture/mtaikoflash_blue.jpg</file>
+        <file>../picture/mtaikoflash_red.jpg</file>
+    </qresource>
+</RCC>

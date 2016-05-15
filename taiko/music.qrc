@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../music/badsoud.mp3</file>
+        <file>../music/don.mp3</file>
+        <file>../music/doon.mp3</file>
+        <file>../music/Everytime.mp3</file>
+        <file>../music/goodsound.mp3</file>
+        <file>../music/ka.mp3</file>
+        <file>../music/supersound.mp3</file>
+        <file>../music/TAEYANG.mp3</file>
+        <file>../music/Talk Love.mp3</file>
+        <file>../music/THE MAX.mp3</file>
+    </qresource>
+</RCC>
